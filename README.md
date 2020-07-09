@@ -1,1 +1,1 @@
-# Square-Wars
+# Fair 'N' Square
